@@ -1,5 +1,4 @@
 # PC-Optimization
-- Windows guide for power users
 - Multiple scripts with revert options
 - Reboot needed for scripts to apply
 
